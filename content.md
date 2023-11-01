@@ -57,7 +57,7 @@ Ultimately, you will submit:
 ## Getting started
 
 1. Start with a blank Rails application by [creating a repository from our template](https://learn.firstdraft.com/lessons/236-rails-template).
-2. `bin/dev` to start your web server after the setup completes. Open your app in a new tab and see the Rails default page.
+2. Start your web server from the terminal after the setup completes. Open your app in a new tab and see the Rails default page.
 3. Pick whichever URL you want your users to be able to visit first and type it in to the address bar. See the "No route matches" error message.
 4. Make it work!
 5. Rinse and repeat.
