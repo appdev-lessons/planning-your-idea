@@ -48,7 +48,7 @@ Ultimately, you will submit:
 
     **Make sure you make a commit of your latest work and push it to GitHub**. You can find your GitHub repository under your account on GitHub.
 
-3. If you choose to deploy your application to Render, **it's production URL (optional)**. You need not put it behind a custom domain — `your-app.onrender.com` is fine.
+3. If you choose to deploy your application to Render, **its production URL (optional)**. You need not put it behind a custom domain — `your-app.onrender.com` is fine.
 
     If deploying to Render is applicable to your idea, consider doing it! [It only takes takes a few more steps](https://learn.firstdraft.com/lessons/215-rails-on-render), but then your app will be on industrial-grade infrastructure for posterity, even if GitHub deletes your codespace for inactivity.
 
